@@ -1,16 +1,14 @@
 # StudyFlow
 
-Assignment and Lab Tracker
+Assignment & Lab Tracker
 
 ## Description
 
-A web application that helps university students
-manage assignments, programming labs, and deadlines.
+A web application for managing university assignments.
 
-## Planned Features
+## Technologies
 
-- View assignments
-- Add new assignments
-- Update assignments
-- Delete assignments
-- Track assignment status
+- React
+- Node.js
+- Express
+- MongoDB
