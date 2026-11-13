@@ -1,6 +1,6 @@
 # StudyFlow
 
-Assignment & Lab
+Assignment & Lab Tracker
 
 ## Description
 
