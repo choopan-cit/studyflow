@@ -4,7 +4,7 @@ Assignment & Lab Tracker
 
 ## Description
 
-A web application for managing university assignments.
+A web application for managing university assignments...
 
 ## Technologies
 
